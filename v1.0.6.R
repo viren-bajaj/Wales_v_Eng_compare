@@ -752,7 +752,7 @@ server <- function(input, output, session) {
 		tags$p(
 			style = "font-size: 0.9em; color: #6c757d; margin-top: 20px;",
 			"This is a work in progress. If you have found an error, please let me know at ",
-			tags$a(href = "https://github.com/viren-bajaj/DDRB-uplift-calc-2025-2026/issues", target = "_blank", "my GitHub page.")
+			tags$a(href = "https://github.com/viren-bajaj/Wales_v_Eng_compare/issues", target = "_blank", "my GitHub page.")
 		)
 	})
 }
