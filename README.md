@@ -1,7 +1,8 @@
 # Wales_v_Eng_compare
 Compares the Welsh 2002 contract to proposed Welsh 2026 contract to English 2016 contract
 
-This is a hobby project, it is not offical BMA at all
+This is a hobby project
+Live version of calculator: https://virenb.shinyapps.io/Welsh_v_English_contract_compare/
 
 toDo:
 make the premia selection less ugly
