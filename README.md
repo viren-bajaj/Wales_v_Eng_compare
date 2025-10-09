@@ -15,7 +15,7 @@ Whilst this project can calculate NHS pension deductions, I offer no pension adv
 
 The project can also calculate student loan deductions. 
 
-If required I can add in code for scottish taxpayers (this exists in one of my other repositories), however this is unlikely to be necessary simce the purpose if this particular calculator is to assess welsh pay, and it is extremely unlikely someone would be resident in Scotland whilst on Welsh pay.
+If required I can add in code for scottish taxpayers (this exists in one of my other repositories), however this is unlikely to be necessary since the purpose of this particular calculator is to assess welsh pay, and it is extremely unlikely someone would be resident in Scotland whilst on Welsh pay.
 
 Live version of calculator (v1.0.9): https://virenb.shinyapps.io/Welsh_v_English_contract_compare/
 
