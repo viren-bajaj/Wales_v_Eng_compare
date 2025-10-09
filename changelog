@@ -1,7 +1,9 @@
 v1.06
-initial commit
+	- initial commit
 
 v1.09
   - separated out English vs Welsh enhanced hours because plaintime is different on the 2016 vs 2026 contract
   - made it more obvious which inputs affect the english contract or welsh contract
   - changed the output display slightly
+v1.1.0
+	- corrected pay premia values. Old version used 2024 values by mistake
