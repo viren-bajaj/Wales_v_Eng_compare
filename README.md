@@ -1,6 +1,6 @@
 # Wales_v_Eng_compare
 
-Live version of calculator (v1.1.0): https://virenb.shinyapps.io/Welsh_v_English_contract_compare/
+Live version of calculator (v1.1.5): https://virenb.shinyapps.io/Welsh_v_English_contract_compare/
 
 A new contract was negotiated by the welsh resident doctors comittee (WRDC) and NHS wales. DOI - I'm on the committee as of October 2025, but joined after the contract negotiation was concluded, so I had no part in those contract negotiations. Everything included here is soley using public available information.
 
