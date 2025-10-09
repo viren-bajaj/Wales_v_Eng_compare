@@ -24,6 +24,8 @@ v1.1.4
 	- added explainer line to English enhanced hours to state they should never be higher than welsh enhanced hours as the welsh non-enhanced time is a subset of the english non-enhanced time. 
 	- ay remove the above if it looks cumbersome. Did not autocap english enhanced hours based on welsh enhanced hours, in case someone wants to compare slighlty different rotas
 
+v1.1.5
+	- added a missing space
 
 
 
