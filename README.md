@@ -11,6 +11,8 @@ This is a hobby project
 
 Live version of calculator (v1.0.9): https://virenb.shinyapps.io/Welsh_v_English_contract_compare/
 
+v1.0.9 has an error (wrong pay premia data for England), pls use v1.1.0 or newer if you want to use this as basis for your own code for 2025-26 
+
 toDo:
 make the premia selection less ugly
 add LTFT (need to clarify how LTFT works on the prposed contract before it is added back in, else I'll have errors)
