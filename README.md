@@ -6,11 +6,12 @@ Compares the Welsh 2002 to proposed Welsh 2026 to English 2016 doctor contracts.
 
 A new contract was negotiated by the welsh resident doctors comittee (WRDC) and NHS wales. DOI - I'm on the committee as of October 2025, but joined after the contract negotiation was concluded. This project was drafted after the contract details were made public.
 
-the main points of the new contract are a move away from banding to paying for hours worked, plus an out of hours enhancement of 1.5x. 
+the main points of the new contract are a move away from banding to paying for hours worked, plus an out of hours enhancement of 1.5x.
+GPSTs on GP blocks get a pay premia, as do OMFS trainees.
 
 The new contract retains incremental credit, but adjusts the pay scales to have 5 ST pay nodes rather than 10. 
 
-This project can calculate NHS pension deductions, but I offer no pension advice. The only clarification that is still required regarding pensions is whether NHS pension deductions affect gross imcome for the purpose of calculating student loan deductions.
+Whilst this project can calculate NHS pension deductions, I offer no pension advice.
 
 The project can also calculate student loan deductions. 
 
