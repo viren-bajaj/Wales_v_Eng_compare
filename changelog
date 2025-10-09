@@ -19,4 +19,11 @@ v1.1.3
 	- changed it so if you select that you're a GPST on a GP rotation, it automatically chooses GP pay premia. But if you don't tick the box, you can't have the GP pay premia.
 	- moved the GPST rota selection directly below grade selection
 
+v1.1.4 
+ 	- modified popover text for pay premia to explain why it is different for FY1/2 vs ST
+	- added explainer line to English enhanced hours to state they should never be higher than welsh enhanced hours as the welsh non-enhanced time is a subset of the english non-enhanced time. 
+	- ay remove the above if it looks cumbersome. Did not autocap english enhanced hours based on welsh enhanced hours, in case someone wants to compare slighlty different rotas
+
+
+
 
