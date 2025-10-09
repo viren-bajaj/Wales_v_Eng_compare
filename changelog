@@ -14,3 +14,6 @@ v1.1.1
 
 v1.1.2
 	- made the gross/net comparison reactive (not impacted by input changes until calculate is pressed/clicked), and moved it below the calculate button
+
+v1.1.3
+	- changed it so if you select that you're a GPST on a GP rotation, it automatically chooses GP pay premia. But if you don't tick the box, you can't have the GP pay premia.
