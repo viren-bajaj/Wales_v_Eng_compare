@@ -16,7 +16,7 @@ The new contract retains incremental credit, but adjusts the pay scales to have 
 Whilst this project can calculate NHS pension deductions, I offer no pension advice.
 The project can also calculate student loan deductions. 
 
-If required I can add in code for scottish taxpayers (this exists in one of my other repositories), however this is unlikely to be necessary since the purpose of this particular calculator is to assess welsh pay, and it is extremely unlikely someone would be resident in Scotland whilst on Welsh pay. However it could be useful for someone considering applying to Wales for training who currently lives on the Scottish side of the border, but works in England.
+If required I can add in code for scottish taxpayers (this exists in one of my other repositories), however this is unlikely to be necessary since the purpose of this particular calculator is to assess welsh pay, and it is extremely unlikely someone would be resident in Scotland whilst on Welsh pay. However it could be useful for someone considering applying to Wales for training who currently lives in Scotland.
 
 v1.0.9 has an error (wrong pay premia data for England), pls use v1.1.0 or newer if you want to use this as basis for your own code for 2025-26 
 
