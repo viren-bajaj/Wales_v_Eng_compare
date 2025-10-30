@@ -4,7 +4,7 @@ Live version of calculator (v1.1.5): https://virenb.shinyapps.io/Welsh_v_English
 
 A new contract was negotiated by the welsh resident doctors comittee (WRDC) and NHS wales. DOI - I'm on the committee as of October 2025, but joined after the contract negotiation was concluded, so I had no part in those contract negotiations. Everything included here is soley using public available information.
 
-#This is a hobby project. It is not official from the BMA.
+# This is a hobby project. It is not official from the BMA.
 
 This project compares the Welsh 2002 to proposed Welsh 2026 and the English 2016 doctor contracts. 
 
@@ -20,7 +20,10 @@ If required I can add in code for scottish taxpayers (this exists in one of my o
 
 v1.0.9 has an error (wrong pay premia data for England), pls use v1.1.0 or newer if you want to use this as basis for your own code for 2025-26 
 
-#toDo:
+# toDo:
+
+Change the incremental credit buttons to a slider asking how much incremental credit you had at the start of the relevent raining year so it can calculate your pay if you increment half way through a training year. e.g. You say you're ST1, it asks how much incremental credit you had at the start of ST1 - you chose 1.5 years. This should add 0.5 years of incremental credit of 1, and 0.5 years of incremental credit of 2. If you picked 1.75 years, then 0.25 years of incremental credit of 1, and 0.75 years of incremental credit of 2. 
+
 make the premia selection less ugly
 add LTFT (need to clarify how LTFT works on the prposed contract before it is added back in, else I'll have errors)
 
